@@ -1,0 +1,111 @@
+.card{
+    text-align: center;
+    width: 350px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 100px;
+    padding: 20px;
+  }
+  body{
+    color: rgba(255, 0, 0, 0.795);
+    background-image: url("https://t4.ftcdn.net/jpg/02/99/84/89/360_F_299848927_S0EwX0P6HWGigW6qZWFIBaczKMQuq5D9.jpg" );
+    padding: 20px;
+    font-size: 20px;
+    font-family:cursive;
+  }
+  .b1 {
+    background-color: white; 
+    color: rgb(255, 0, 0); 
+    border-radius:25px;
+    border: 2px solid salmon;
+    font-size: 20px;
+  }
+  
+  .b1:hover {
+    background-color:salmon;
+    color: white;
+  }
+  
+  .b2 {
+    background-color: white; 
+    color: black; 
+    border-radius:25px;
+    border: 2px solid salmon;
+    font-size: 20px;
+  }
+  
+  .b2:hover {
+    background-color:salmon;
+    color: white;
+  }
+  
+  .b3 {
+    background-color: rgb(248, 243, 243); 
+    color: black; 
+    border-radius:25px;
+    border: 2px solid salmon;
+    font-size:20px;
+  }
+  
+  .b3:hover {
+    background-color: salmon;
+    color:black;
+  }
+  
+  .b4 {
+    background-color: white;
+    color: black;
+    border-radius:25px;
+    border: 2px solid salmon;
+    font-size: 20px;
+  }
+  
+  .b4:hover {background-color: salmon;
+  color: rgb(233, 23, 23);}
+  
+  .b5 {
+    background-color: white;
+    color: rgb(14, 1, 1);
+    border-radius:25px;
+    border: 3px solid rgb(240, 29, 22);
+    font-size: 25px;
+  }
+  
+  .b5:hover {
+    background-color: rgba(228, 221, 221, 0.548);
+    color: rgb(224, 48, 48);
+  }
+  #num{
+   padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px ;
+    background-color: rgb(250, 248, 248);
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(133, 18, 18, 0.815);
+  }
+  #para1{
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px ;
+    background-color: rgb(250, 249, 249);
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(107, 49, 49, 0.815);
+  
+  }
+  #para2{
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px ;
+    background-color: rgb(252, 249, 249);
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(107, 49, 49, 0.815);
+  
+  }
+  
